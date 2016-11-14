@@ -1,0 +1,15 @@
+{
+    "name": "wilforlan/xlsxparser",
+    "authors": [
+        {
+            "name": "Williams Isaac",
+            "email": "williamscalg@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "xlsxparser": "src/"
+        }
+    }
+}
